@@ -100,7 +100,7 @@ Numeric: int, float, double
 alpha, alphanumeric: char, string
 We also have manipulators
 The 2 basic numeric data types:
-int			4 bytes
+int			4 byt   
 double		8 bytes
 Every data in memory of the computer has a fixed size (in terms of bytes)
 
