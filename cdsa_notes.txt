@@ -168,4 +168,8 @@ else
 11. Check if a number is 2 digit number
 12. Find smallest of 2 numbers
 13. Find biggest of 2 distinct numbers
-14. Find smallest of 3 distinct numbers
+14. Find smallest of 3 disti
+
+
+
+nct numbers
